@@ -1,0 +1,7 @@
+@import url("https://fonts.googleapis.com/css?family=Inter");
+// If you need to import the font family from CDN then add a import line
+
+$body-font-family: "Inter", sans-serif !important;
+$heading-font-family: "Inter", sans-serif !important;
+
+@import '~vuetify/src/styles/styles.sass';

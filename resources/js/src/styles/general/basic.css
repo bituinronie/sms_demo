@@ -1,0 +1,45 @@
+ .hidden {
+     display: none !important;
+ }
+
+ .show {
+     display: block !important;
+ }
+
+ .pointer {
+     cursor: pointer !important;
+ }
+
+ div.v-data-table {
+     cursor: pointer !important;
+ }
+
+ div.v-data-table.tstyle thead.v-data-table-header {
+     background-color: #2196F3;
+     text-transform: uppercase;
+ }
+
+
+ div.v-data-table.tstyle thead tr th span {
+     color: white;
+     font-weight: lighter;
+ }
+
+ div.v-data-table.tstyle {
+     border: 1px solid #b9b8b8;
+     padding: 0;
+ }
+
+ div.filter-panel {
+     border: 1px solid #b9b8b8;
+ }
+
+ div.v-data-table.tstyle.error-table td {
+     color: #e3342f;
+     font-weight: lighter;
+ }
+
+ div.v-data-table.tstyle.loading-table td {
+     color: #2196F3;
+     font-weight: lighter;
+ }
